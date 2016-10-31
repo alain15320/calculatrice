@@ -1,4 +1,4 @@
-package main.java.com.agilidee.livrejunit.calculatrice.math;
+package math;
 
 public class Addition {
 	
