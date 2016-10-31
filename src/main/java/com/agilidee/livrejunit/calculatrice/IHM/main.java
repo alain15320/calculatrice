@@ -1,6 +1,6 @@
 package main.java.com.agilidee.livrejunit.calculatrice.IHM;
 
-import main.java.com.agilidee.livrejunit.calculatrice.math.Addition;
+import math.Addition;
 
 public class main {
 
